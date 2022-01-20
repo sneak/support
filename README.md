@@ -1,7 +1,7 @@
 <p align="center"><img src="https://pixelfed.nyc3.cdn.digitaloceanspaces.com/logos/pixelfed-full-color.svg" width="300px"></p>
 
 # Pixelfed Support
-Any issues with your installation of Pixelfed should be filed here first. When a bug is identified with the Pixelfed software, your issue will be upgraded to a bug on https://github.org/pixelfed/pixelfed. 
+Any issues with your installation of Pixelfed should be filed here first. When a bug is identified with the Pixelfed software, your issue will be upgraded to a bug on https://github.com/pixelfed/pixelfed. 
 
 ## Communication
 
